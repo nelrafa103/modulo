@@ -49,7 +49,7 @@ export default function Home() {
 
     return (
         <>
-            <main class="md:px-24 px-4 max-w-6xl mx-auto">
+            <main class="md:px-24 px-4 md:max-w-6xl mx-auto">
                 {/* Navigation */}
                 <nav class="relative flex flex-wrap items-center justify-between gap-2 py-4 md:px-2">
                     <div>
